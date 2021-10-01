@@ -1,0 +1,32 @@
+{
+    "name": "Road To Code",
+    "image": "http://github.com/surajshende247.png",
+    "bio": "Affordable Computer Science Education for All",
+    "links":[
+      {
+        "name": "GitHub",
+        "url": "https://github.com/roadtocode-org",
+        "icon": "github"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/roadtocode4u/",
+        "icon": "linkedin"
+      },
+      {
+        "name": "Twitter",
+        "url": "#",
+        "icon": "twitter"
+      },
+      {
+        "name": "Instagram",
+        "url": "http://github.com/roadtocode4u",
+        "icon": "instagram"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/channel/UC0eauXsOnwwkNTjppgk9-vw",
+        "icon": "youtube"
+      }
+    ]
+  }

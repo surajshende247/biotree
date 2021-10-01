@@ -1,0 +1,32 @@
+{
+    "name": "Suraj Shende",
+    "image": "http://github.com/surajshende247.png",
+    "bio": "Founder @ Road To Code",
+    "links":[
+      {
+        "name": "GitHub",
+        "url": "http://github.com/surajshende247",
+        "icon": "github"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/surajshende247/",
+        "icon": "linkedin"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/surajshende247",
+        "icon": "twitter"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/surajshende_247/",
+        "icon": "instagram"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/channel/UC0eauXsOnwwkNTjppgk9-vw",
+        "icon": "youtube"
+      }
+    ]
+  }

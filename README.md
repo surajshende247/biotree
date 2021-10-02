@@ -55,4 +55,4 @@ Optional fields: `links` and `milestones`
   }
 ```
 
-Your URL will be `https://bio-tree.herokuapp.com/<yourusername>`. For example: <https://bio-tree.herokuapp.com/surajshende247>\
+Your URL will be `https://bio-tree.herokuapp.com/<yourusername>`. For example: <https://bio-tree.herokuapp.com/surajshende247>

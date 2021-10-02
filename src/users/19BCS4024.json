@@ -1,0 +1,12 @@
+{
+    "name": "Yash Chauhan",
+    "image": "http://github.com/19BCS4024.png",
+    "bio": "Contributer",
+    "links":[
+      {
+        "name": "GitHub",
+        "url": "http://github.com/19BCS4024/",
+        "icon": "github"
+      }
+    ]
+  }

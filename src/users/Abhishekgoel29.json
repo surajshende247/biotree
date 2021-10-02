@@ -1,0 +1,13 @@
+{
+    "name": "Abhishek Goel",
+    "image": "http://github.com/Abhishekgoel29.png",
+    "bio": "Founder of Road To Code",
+    "links":[
+      {
+        "name": "GitHub",
+        "url": "http://github.com/Abhishekgoel29",
+        "icon": "github"
+      }
+      
+    ]
+  }

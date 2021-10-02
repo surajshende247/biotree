@@ -12,6 +12,16 @@
         "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/yash-chauhan-a0b2781b2/",
         "icon": "linkedin"
+      },
+        {
+        "name": "Twitter",
+        "url": "https://twitter.com/YashCha40594520",
+        "icon": "twitter"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/yashchauhan528/",
+        "icon": "instagram"
       }
     ]
   }

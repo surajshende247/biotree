@@ -1,0 +1,13 @@
+{
+    "name": "Ritesh Jangir",
+    "image": "http://github.com/mrriteshjangir.png",
+    "bio": "Co-Founder of Road To Code",
+    "links":[
+      {
+        "name": "GitHub",
+        "url": "http://github.com/mrriteshjangir",
+        "icon": "github"
+      },
+      
+    ]
+  }

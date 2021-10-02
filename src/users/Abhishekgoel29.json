@@ -13,6 +13,16 @@
         "url": "https://www.linkedin.com/in/abhishek-goel-228a311a6/",
         "icon": "linkedin"
       },
+        {
+        "name": "Twitter",
+        "url": "https://twitter.com/goelji79",
+        "icon": "twitter"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/abhishek_goel0101/",
+        "icon": "instagram"
+      }
       
     ]
   }

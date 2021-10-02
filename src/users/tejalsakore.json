@@ -12,6 +12,11 @@
         "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/tejalsakore/",
         "icon": "linkedin"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/Tejal52545764",
+        "icon": "twitter"
       }
       
     ]

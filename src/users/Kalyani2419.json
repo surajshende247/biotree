@@ -7,6 +7,11 @@
         "name": "GitHub",
         "url": "http://github.com/Kalyani2419",
         "icon": "github"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/kalyanilanjewar24/",
+        "icon": "linkedin"
       }
       
     ]

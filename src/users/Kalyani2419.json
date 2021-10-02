@@ -27,6 +27,11 @@
         "name": "YouTube",
         "url": "https://www.youtube.com/channel/UCi8UkFI5AuXj2sgPHnmgM3A",
         "icon": "youtube"
+      },
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/profile.php?id=100010046356096",
+        "icon": "facebook"
       }
       
     ]

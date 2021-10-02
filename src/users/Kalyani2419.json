@@ -12,6 +12,11 @@
         "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/kalyanilanjewar24/",
         "icon": "linkedin"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/kalyani_2419",
+        "icon": "twitter"
       }
       
     ]

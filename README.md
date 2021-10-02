@@ -62,3 +62,8 @@ Optional fields: `links` and `milestones`
 ```
 
 Your URL will be `https://bio-tree.herokuapp.com/<yourusername>`. For example: <https://bio-tree.herokuapp.com/surajshende247>
+
+
+## Contributers
+
+![GitHub Contributors Image](https://contrib.rocks/image?repo=surajshende247/biotree)

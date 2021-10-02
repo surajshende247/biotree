@@ -7,7 +7,12 @@
         "name": "GitHub",
         "url": "http://github.com/Abhishekgoel29",
         "icon": "github"
-      }
+      },
+       {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/abhishek-goel-228a311a6/",
+        "icon": "linkedin"
+      },
       
     ]
   }

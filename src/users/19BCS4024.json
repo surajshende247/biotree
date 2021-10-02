@@ -7,6 +7,11 @@
         "name": "GitHub",
         "url": "http://github.com/19BCS4024/",
         "icon": "github"
+      },
+       {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/yash-chauhan-a0b2781b2/",
+        "icon": "linkedin"
       }
     ]
   }

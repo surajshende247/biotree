@@ -1,0 +1,11 @@
+{
+    "name": "coding-ram",
+    "image": "http://github.com/coding-ram.png",
+    "bio": "New Learner",
+    "links":[
+      {
+        "name": "GitHub",
+        "url": "https://github.com/coding-ram",
+        "icon": "github"
+      },
+      

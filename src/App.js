@@ -13,12 +13,23 @@
   function App(){
 
     let user = '/roadtocode-org';
+    let data;
+
     if(window.location.pathname!=="/")
     {
-      user=window.location.pathname;
-      console.log(user);      
+      user=window.location.pathname;   
+    }    
+    try{
+    data =require(`./users${user}.json`); 
     }
-    
+    catch(e){
+      data={
+        "name": "Profile is not updated yet",
+        "image": "http://github.com/surajshende247.png",
+        "bio": "visit https://github.com/surajshende247/biotree",    
+        "links":[],    
+      };
+    }
 
     const theme = createTheme({
       palette: {
@@ -40,7 +51,7 @@
       },
     });
 
-    const data =require(`./users${user}.json`);
+    
     return(
       <Container maxWidth="md">
         <ThemeProvider theme={theme}>
@@ -78,19 +89,22 @@
         <div >
           <Stack direction="column" spacing={2}>
             {
-            data.links.map((link)=>(
-              <Button 
-              variant="contained" 
-              color={link.icon} 
-              style={{color: '#ffffff'}}
-              href={link.url} 
-              target="_blank" >
-                <i className={`fab fa-${link.icon}`}></i>                  
-                  &nbsp;&nbsp;&nbsp;
-                  {link.name}                                           
-              </Button>
-            ))
+              
+                  data.links.map((link)=>(
+                    <Button 
+                    variant="contained" 
+                    color={link.icon} 
+                    style={{color: '#ffffff'}}
+                    href={link.url} 
+                    target="_blank" >
+                      <i className={`fab fa-${link.icon}`}></i>                  
+                        &nbsp;&nbsp;&nbsp;
+                        {link.name}                                           
+                    </Button>
+                  ))
+              
             }
+
           </Stack>          
         </div>
         </ThemeProvider>

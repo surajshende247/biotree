@@ -1,0 +1,13 @@
+{
+    "name": "Tejal Sakore",
+    "image": "http://github.com/tejalsakore.png",
+    "bio": "Founder of Road To Code",
+    "links":[
+      {
+        "name": "GitHub",
+        "url": "http://github.com/tejalsakore",
+        "icon": "github"
+      }
+      
+    ]
+  }

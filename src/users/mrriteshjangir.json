@@ -7,6 +7,11 @@
         "name": "GitHub",
         "url": "http://github.com/mrriteshjangir",
         "icon": "github"
-      }      
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/ritesh-jangir-a6089a1b6/",
+        "icon": "linkedin"
+      }
     ]
   }

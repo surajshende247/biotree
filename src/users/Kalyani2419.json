@@ -22,6 +22,11 @@
         "name": "Instagram",
         "url": "https://www.instagram.com/kalyani_2419/",
         "icon": "instagram"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/channel/UCi8UkFI5AuXj2sgPHnmgM3A",
+        "icon": "youtube"
       }
       
     ]

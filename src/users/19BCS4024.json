@@ -1,0 +1,27 @@
+{
+    "name": "Yash Chauhan",
+    "image": "http://github.com/19BCS4024.png",
+    "bio": "Contributer",
+    "links":[
+      {
+        "name": "GitHub",
+        "url": "http://github.com/19BCS4024/",
+        "icon": "github"
+      },
+       {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/yash-chauhan-a0b2781b2/",
+        "icon": "linkedin"
+      },
+        {
+        "name": "Twitter",
+        "url": "https://twitter.com/YashCha40594520",
+        "icon": "twitter"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/yashchauhan528/",
+        "icon": "instagram"
+      }
+    ]
+  }

@@ -1,0 +1,27 @@
+{
+  "name": "Kevin Simkanič",
+  "image": "http://github.com/cholinkol.png",
+  "bio": "Wordpress ninja 😎 React lover ❤️ CSS master 🧐",
+  "links": [
+    {
+      "name": "GitHub",
+      "url": "http://github.com/cholinkol",
+      "icon": "github"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kevin-simkani%C4%8D-181560128/",
+      "icon": "linkedin"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/cholinkol",
+      "icon": "twitter"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/cholinkol/",
+      "icon": "instagram"
+    }
+  ]
+}

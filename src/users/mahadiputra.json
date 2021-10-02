@@ -1,0 +1,27 @@
+{
+    "name": "Mahadiputra Sugiharto",
+    "image": "http://github.com/mahadi22.png",
+    "bio": "Someone who doing coding as hobby.",
+    "links":[
+      {
+        "name": "GitHub",
+        "url": "http://github.com/mahadi22",
+        "icon": "github"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/Adi_a12",
+        "icon": "twitter"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/adi_a12/",
+        "icon": "instagram"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/channel/UCg6wBotSG2-OAVK8fW0_QQQ",
+        "icon": "youtube"
+      }
+    ]
+  }

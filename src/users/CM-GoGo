@@ -1,0 +1,13 @@
+{
+    "name": "Crime Master GoGo",
+    "image": "http://github.com/CMGoGo.png",
+    "bio": "Moderator of Road To Code",
+    "links":[
+      {
+        "name": "GitHub",
+        "url": "http://github.com/CMGoGo69",
+        "icon": "github"
+      }
+      
+    ]
+  }

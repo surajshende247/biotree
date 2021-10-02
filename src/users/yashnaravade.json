@@ -1,0 +1,29 @@
+{
+    "name": "Yash Naravade",
+    "image": "http://github.com/yashnaravade.png",
+    "bio": "Founder of Road To Code",
+    "links":[
+      {
+        "name": "GitHub",
+        "url": "http://github.com/yashnaravade",
+        "icon": "github"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "www.linkedin.com/in/yashnaravade/",
+        "icon": "linkedin"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/yashnaravade",
+        "icon": "twitter"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/stellar_dawg_ilxx/",
+        "icon": "instagram"
+      },
+      
+    ]
+  }
+

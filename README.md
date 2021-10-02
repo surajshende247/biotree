@@ -2,6 +2,9 @@
 📃biotree is a social media reference landing page. An open-source alternative to [Linktree](https://linktr.ee/)
 
 ## Screenshot
+
+[Click here](https://bio-tree.herokuapp.com/) to view the live demo.
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/41753685/135701649-5208d048-4259-4e5d-917e-80d5c0f2f130.png" width="80%" title="biotree">
 </p>

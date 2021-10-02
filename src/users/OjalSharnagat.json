@@ -1,0 +1,13 @@
+{
+    "name": "Ojal Sharnagat",
+    "image": "http://github.com/OjalSharnagat.png",
+    "bio": "Founder of Road To Code",
+    "links":[
+      {
+        "name": "GitHub",
+        "url": "http://github.com/OjalSharnagat",
+        "icon": "github"
+      }
+      
+    ]
+  }

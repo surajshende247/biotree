@@ -47,6 +47,9 @@
         },  
         instagram: {
           main: '#F77737'
+        },
+        facebook: {
+          main: '#2867B2',
         }
       },
     });

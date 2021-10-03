@@ -67,6 +67,10 @@ Your URL will be `https://bio-tree.herokuapp.com/<yourusername>`. For example: <
 
 ![Heroku Buld](https://heroku-badge.herokuapp.com/?app=bio-tree)
 
+<a href="https://heroku.com/deploy?template=https://github.com/heroku/node-js-getting-started">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+
 
 ## Contributers
 

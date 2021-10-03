@@ -63,6 +63,10 @@ Optional fields: `links` and `milestones`
 
 Your URL will be `https://bio-tree.herokuapp.com/<yourusername>`. For example: <https://bio-tree.herokuapp.com/surajshende247>
 
+## Build Status
+
+![Heroku Buld](https://heroku-badge.herokuapp.com/?app=bio-tree)
+
 
 ## Contributers
 

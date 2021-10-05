@@ -1,0 +1,32 @@
+{
+    "name": "Hariket Sukesh Kumar Sheth",
+    "image": "http://github.com/hariketsheth.png",
+    "bio": "Love to contribute and explore new Technologies.",
+    "links":[
+      {
+        "name": "GitHub",
+        "url": "http://github.com/hariketsheth",
+        "icon": "github"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/HariketSheth",
+        "icon": "twitter"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/hariketacoustics",
+        "icon": "instagram"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/c/HariketAcoustics",
+        "icon": "youtube"
+      },
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/HariketAcoustics",
+        "icon": "facebook"
+      }
+    ]
+  }

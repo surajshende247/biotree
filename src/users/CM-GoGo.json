@@ -7,6 +7,11 @@
         "name": "GitHub",
         "url": "http://github.com/CMGoGo69",
         "icon": "github"
+      },
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/profile.php?id=100073540716969/",
+        "icon": "facebook"
       }
       
     ]

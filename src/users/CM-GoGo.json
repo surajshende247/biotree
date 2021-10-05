@@ -7,6 +7,11 @@
         "name": "GitHub",
         "url": "http://github.com/CMGoGo69",
         "icon": "github"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/channel/UC8TDWmKEWQhcRCxwgiQTJiQ",
+        "icon": "youtube"
       }
       
     ]

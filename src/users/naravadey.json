@@ -3,6 +3,12 @@
     "image": "http://github.com/yashnaravade.png",
     "bio": "Instructor",
     "links":[
+        ,
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/profile.php?id=100004810898772",
+        "icon": "facebook"
+      }
       
     ]
   }

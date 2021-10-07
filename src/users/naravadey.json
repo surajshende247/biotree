@@ -8,6 +8,11 @@
         "name": "YouTube",
         "url": "https://www.youtube.com/channel/UCFvLY2oCUb9RgMKYyr8o_GA",
         "icon": "youtube"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/yash-naravade-323b29222/",
+        "icon": "linkedin"
       }
       
     ]

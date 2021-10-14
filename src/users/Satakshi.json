@@ -7,6 +7,11 @@
         "name": "GitHub",
         "url": "http://github.com/yashnaravade",
         "icon": "github"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/ShaktiKapoor/",
+        "icon": "linkedin"
       }
  
     ]

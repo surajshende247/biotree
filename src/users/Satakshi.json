@@ -17,6 +17,11 @@
         "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/ShaktiKapoor/",
         "icon": "linkedin"
+      },
+         {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/channel/UCFvLY2oCUb9RgMKYyr8o_GA",
+        "icon": "youtube"
       }
  
     ]

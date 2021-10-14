@@ -1,0 +1,18 @@
+{
+    "name": "Satakshi Dubey",
+    "image": "http://github.com/yashnaravade.png",
+    "bio": "Founder of Road To Code",
+    "links":[
+         {
+        "name": "GitHub",
+        "url": "http://github.com/yashnaravade",
+        "icon": "github"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/ShaktiKapoor/",
+        "icon": "linkedin"
+      }
+ 
+    ]
+  }

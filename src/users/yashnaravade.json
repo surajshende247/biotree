@@ -22,7 +22,12 @@
         "name": "Instagram",
         "url": "https://www.instagram.com/stellar_dawg_ilxx/",
         "icon": "instagram"
-      }      
+      },  
+        {
+        "name": "GitHub",
+        "url": "http://github.com/yashnaravade",
+        "icon": "github"
+      },
     ]
   }
 

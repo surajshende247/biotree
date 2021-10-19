@@ -22,6 +22,11 @@
         "name": "YouTube",
         "url": "https://www.youtube.com/channel/UCFvLY2oCUb9RgMKYyr8o_GA",
         "icon": "youtube"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/yashnaravade",
+        "icon": "twitter"
       }
  
     ]

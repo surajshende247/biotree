@@ -13,10 +13,23 @@
         "url": "https://twitter.com/coding_ram",
         "icon": "twitter"
       },
+
+        {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/heheBoii/",
+        "icon": "instagram"
+      },
       {
         "name": "Instagram",
         "url": "https://www.instagram.com/Shwetamadam/",
         "icon": "instagram"
+     
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/yashnaravade",
+        "icon": "twitter:
+
       }
         ]
 }

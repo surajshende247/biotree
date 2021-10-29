@@ -42,6 +42,11 @@
         "name": "YouTube",
         "url": "https://www.youtube.com/channel/UCi8UkFI5AuXj2sgPHnmgM3A",
         "icon": "youtube"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/kalyani_2419",
+        "icon": "twitter"
       }
       
     ]

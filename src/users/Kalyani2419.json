@@ -32,6 +32,11 @@
         "name": "Facebook",
         "url": "https://www.facebook.com/profile.php?id=100010046356096",
         "icon": "facebook"
+      },  
+        {
+        "name": "GitHub",
+        "url": "http://github.com/kalyanni2419",
+        "icon": "github"
       }
       
     ]

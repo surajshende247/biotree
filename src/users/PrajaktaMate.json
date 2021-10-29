@@ -12,6 +12,11 @@
         "name": "Instagram",
         "url": "https://www.instagram.com/stellar_dawg_ilxx/",
         "icon": "instagram"
-      }  
+      },
+      {
+        "name": "LinkedIn",
+        "url": "www.linkedin.com/in/yashnaravade/",
+        "icon": "linkedin"
+        }
      ]
 }

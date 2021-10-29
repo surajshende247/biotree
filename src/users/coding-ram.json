@@ -12,6 +12,16 @@
         "name": "Twitter",
         "url": "https://twitter.com/coding_ram",
         "icon": "twitter"
+      },
+        {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/heheBoii/",
+        "icon": "instagram"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/shwetatiwari/",
+        "icon": "linkedin"
       }
         ]
 }

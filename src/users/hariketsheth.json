@@ -27,6 +27,11 @@
         "name": "Facebook",
         "url": "https://www.facebook.com/HariketAcoustics",
         "icon": "facebook"
-      }
+      },
+      {
+        "name": "LinkedIn",
+        "url": "www.linkedin.com/in/yashnaravade/",
+        "icon": "linkedin"
+        }
     ]
   }

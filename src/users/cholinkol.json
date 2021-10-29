@@ -32,6 +32,11 @@
         "name": "Twitter",
         "url": "https://twitter.com/yashnaravade",
         "icon": "twitter"
-      }
+      },
+      {
+        "name": "LinkedIn",
+        "url": "www.linkedin.com/in/yashnaravade/",
+        "icon": "linkedin"
+        }
   ]
 }

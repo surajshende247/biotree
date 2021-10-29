@@ -17,6 +17,11 @@
         "name": "LinkedIn",
         "url": "www.linkedin.com/in/RunitWaykar/",
         "icon": "linkedin"
-        };
+        },
+      {
+        "name": "LinkedIn",
+        "url": "www.linkedin.com/in/yashnaravade/",
+        "icon": "linkedin"
+        }
       ]
 }

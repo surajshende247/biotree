@@ -33,8 +33,12 @@
       {
         "name": "Twitter",
         "url": "https://twitter.com/yashnaravade",
-        "icon": "twitter"
-      }
+        "icon": ",
+      {
+        "name": "LinkedIn",
+        "url": "www.linkedin.com/in/yashnaravade/",
+        "icon": "linkedin"
+              }
         ]
 }
       

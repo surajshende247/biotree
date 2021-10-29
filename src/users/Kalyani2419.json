@@ -47,6 +47,11 @@
         "name": "Twitter",
         "url": "https://twitter.com/kalyani_2419",
         "icon": "twitter"
+      },
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/profile.php?id=100010046356096",
+        "icon": "facebook"
       }
       
     ]

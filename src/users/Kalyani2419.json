@@ -37,6 +37,11 @@
         "name": "GitHub",
         "url": "http://github.com/kalyanni2419",
         "icon": "github"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/channel/UCi8UkFI5AuXj2sgPHnmgM3A",
+        "icon": "youtube"
       }
       
     ]

@@ -1,0 +1,21 @@
+{
+    "name": "Oshi Gupta",
+    "bio": "Intern at CloudYuga",
+    "links":[
+      {
+        "name": "GitHub",
+        "url": "http://github.com/oshi36",
+        "icon": "github"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/oshi-gupta-512716178/",
+        "icon": "linkedin"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/oshi1136",
+        "icon": "twitter"
+      }
+    ]
+  }
